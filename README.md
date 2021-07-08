@@ -1,16 +1,28 @@
 ### Hi there 👋
 
-<!--
-**alfahadarc/alfahadarc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ # <h1 align="center">Hi, I'm Abdullah Al Fahad</h1>
 
-Here are some ideas to get you started:
+ 
+ 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+ 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=alfahadarc&label=Profile%20views&color=0e75b6&style=flat" alt="alfahadarc" /></p> 
+
+![](https://visitor-badge.glitch.me/badge?page_id=alfahadarc.alfahadarc)
+ 
+![Abdullah Al Fahad's GitHub stats](https://github-readme-stats.vercel.app/api?username=alfahadarc&show_icons=true&theme=radical)<br><br>
+ 
+ <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alfahadarc&theme=radical&hide_border=true"/><br><br>
+          
+                
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alfahadarc&card_width=500&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"><br><br>
+
+
+
+
+
+
+
+
